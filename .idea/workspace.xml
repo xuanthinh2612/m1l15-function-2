@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff05931e-4256-4de3-b73f-6230b474e55b" name="Default Changelist" comment="" />
+    <list default="true" id="ff05931e-4256-4de3-b73f-6230b474e55b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/exchangeBetweenfeetAndMetter/exchangeFeetAndMeters.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +16,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1khHw7j8sqEaQzbZfl2m0ycd84w" />
   <component name="ProjectViewState">
@@ -43,7 +49,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606146138471</updated>
-      <workItem from="1606146139544" duration="2072000" />
+      <workItem from="1606146139544" duration="2257000" />
+      <workItem from="1606174870566" duration="112000" />
+      <workItem from="1606175003759" duration="12000" />
+      <workItem from="1606175087700" duration="2000" />
+      <workItem from="1606175101988" duration="399000" />
+      <workItem from="1606175529434" duration="1000" />
+      <workItem from="1606175738943" duration="21000" />
+      <workItem from="1606175874699" duration="1480000" />
+      <workItem from="1606179173746" duration="43000" />
+      <workItem from="1606179428297" duration="2244000" />
     </task>
     <servers />
   </component>

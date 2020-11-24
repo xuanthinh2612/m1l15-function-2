@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Exchange feet and meters</title>
+</head>
+<body>
+<fieldset style="width: 500px">
+    <legend>Meters And Feets Exchanging</legend>
+    <label for="inputnumber">Input number to exchange: </label>
+    <input id="inputnumber" type="number" oninput="writeResult()">
+    <span>To</span>
+    <select name="options" id="meterFeet">
+        <option value="meter">Meter</option>
+        <option value="feet">Feet</option>
+    </select>
+    <span id="result"></span>
+</fieldset>
+</body>
+<script>
+
+    function meterFeetExchange(inputnumber, inputselection) {
+        inputnumber = document.getElementById('inputnumber').value;
+        inputselection = document.getElementById('meterFeet').value;
+        let result;
+        switch (inputselection) {
+            case 'meter':
+                result = 0.305 * inputnumber;
+                return result;
+            case 'feet' :
+
+                result = 3.279 * inputnumber;
+
+                return result;
+
+        }
+    }
+    function writeResult(inputnumber, inputselection) {
+        document.getElementById('result').innerHTML = meterFeetExchange(inputnumber, inputselection)
+    }
+</script>
+</html>
