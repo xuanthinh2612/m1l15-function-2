@@ -28,18 +28,16 @@
 <form onsubmit="return false">
     <h3>Add New Product</h3>
     <fieldset>
-        <input type="text" size="30" style="height: 30px; padding: 5px">&nbsp;&nbsp;
-        <button onclick="">Add</button>
+        <input type="text" size="30" style="height: 30px; padding: 5px" id="input">&nbsp;&nbsp;
+        <button onclick="addProduct()">Add</button>
         <br><br><br>
     </fieldset>
-    <h3>Display All Product</h3>
-    <button onclick="showAllProduct()">show All Product</button>
+    <h3 onclick="showAllProduct(products,size)">Click to Display All Product</h3>
 
-    <table width="800px" border="0" cellspacing="0">
-        <div id="showProduct"></div>
+    <table width="800px" border="0" cellspacing="0" id="showProduct">
     </table>
 
 </form >
 </body>
-<script src = 'quanLySanPham.js'></script>
+<script src = quanLySanPham.js></script>
 </html>

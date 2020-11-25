@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff05931e-4256-4de3-b73f-6230b474e55b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/kiemTraDoiXung/kiemTraDoiXung.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ungDungQuanLySanPham/quanLySanPham.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ungDungQuanLySanPham/quanLySanPham.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoHamTrenLop.html" beforeDir="false" afterPath="$PROJECT_DIR$/demoHamTrenLop.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functionExercise02/functionExercise02.js" beforeDir="false" afterPath="$PROJECT_DIR$/functionExercise02/functionExercise02.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ungDungQuanLySanPham/quanLySanPham.html" beforeDir="false" afterPath="$PROJECT_DIR$/ungDungQuanLySanPham/quanLySanPham.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ungDungQuanLySanPham/quanLySanPham.js" beforeDir="false" afterPath="$PROJECT_DIR$/ungDungQuanLySanPham/quanLySanPham.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +68,8 @@
       <workItem from="1606183749710" duration="13849000" />
       <workItem from="1606206459075" duration="578000" />
       <workItem from="1606207398374" duration="6736000" />
-      <workItem from="1606222129171" duration="11876000" />
+      <workItem from="1606222129171" duration="21098000" />
+      <workItem from="1606285955258" duration="7950000" />
     </task>
     <servers />
   </component>

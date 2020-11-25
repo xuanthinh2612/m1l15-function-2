@@ -39,7 +39,7 @@ function tinhGiaiThua(number) {
 //================Bài 4===============
 function isNumber(input) {
     if (input % 1 == 0) {
-        alert(true);
+        alert('true');
     } else {
         alert('false');
     }
