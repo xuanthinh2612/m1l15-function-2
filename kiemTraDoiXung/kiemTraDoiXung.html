@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>kiểm tra đối xứng</title>
+</head>
+<body>
+<input type="text" id="input">
+<button onclick="alert(isPalindrome(document.getElementById('input').value))">Check Palindrome</button>
+</body>
+<script>
+
+    function isPalindrome(input) {
+        for (i = 0; i < input.length / 2; i++) {
+            if (input[i] !== input[input.length - 1 - i]) {
+                return false;
+
+            }
+        }
+        return true;
+    }
+</script>
+</html>

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>quan Ly San Pham</title>
+    <style>
+        button{
+            color: white;
+            background-color: limegreen;
+            width: 70px;
+            height: 30px;
+            border: 0px;
+        }
+        td{
+            text-align: center;
+        }
+        fieldset{
+            width:400px;
+            height: 40px;
+            background-color: lightblue;
+            border: 0px;
+            text-align: center;
+            align-items: center;
+        }
+    </style>
+</head>
+<body>
+<form onsubmit="return false">
+    <h3>Add New Product</h3>
+    <fieldset>
+        <input type="text" size="30" style="height: 30px; padding: 5px">&nbsp;&nbsp;
+        <button onclick="">Add</button>
+        <br><br><br>
+    </fieldset>
+    <h3>Display All Product</h3>
+    <button onclick="showAllProduct()">show All Product</button>
+
+    <table width="800px" border="0" cellspacing="0">
+        <div id="showProduct"></div>
+    </table>
+
+</form >
+</body>
+<script src = 'quanLySanPham.js'></script>
+</html>

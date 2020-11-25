@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff05931e-4256-4de3-b73f-6230b474e55b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/demoHamTrenLop.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functionExercise02/functionExercise02.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functionExercise02/functionExercise02.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kiemTraDoiXung/kiemTraDoiXung.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ungDungQuanLySanPham/quanLySanPham.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ungDungQuanLySanPham/quanLySanPham.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -66,11 +66,18 @@
       <workItem from="1606183631910" duration="21000" />
       <workItem from="1606183749710" duration="13849000" />
       <workItem from="1606206459075" duration="578000" />
-      <workItem from="1606207398374" duration="6569000" />
+      <workItem from="1606207398374" duration="6736000" />
+      <workItem from="1606222129171" duration="11876000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="425" y="189" key="run.anything.popup" timestamp="1606223138855">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1606223138855" />
   </component>
 </project>
